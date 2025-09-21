@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+.idea/*
+.venv
+.env
+Bot/Content/Video/*
+Bot/Content/Audio/*
+Bot/Content/Background/Audio/*
+Bot/Content/Background/font/*
+Bot/Content/Background/Image/*
+Bot/Content/Background/Video/*
