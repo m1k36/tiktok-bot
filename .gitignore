@@ -8,3 +8,5 @@ Bot/Content/Background/Audio/*
 Bot/Content/Background/font/*
 Bot/Content/Background/Image/*
 Bot/Content/Background/Video/*
+Bot/__pycache__/*
+Bot/Scripts/__pycache__/*
